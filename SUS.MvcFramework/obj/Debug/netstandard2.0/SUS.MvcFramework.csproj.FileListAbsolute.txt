@@ -1,0 +1,24 @@
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.deps.json
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.dll
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.pdb
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csprojAssemblyReference.cache
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.AssemblyInfoInputs.cache
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.AssemblyInfo.cs
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.CopyComplete
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.dll
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.pdb
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.deps.json
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.dll
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.pdb
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csprojAssemblyReference.cache
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.AssemblyInfoInputs.cache
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.AssemblyInfo.cs
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.CopyComplete
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.dll
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.pdb

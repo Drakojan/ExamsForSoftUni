@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m8Eidrt+tEj5Y/QrSyJbvqjsdnCCEqXiejpf8hQ9hEHc81ne+0Rnzt8/UfKQkaWKgkrFyT/P9BGDPgHFpo6Vgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ROG STRIX\\Desktop\\C#Web_Retake_Skeleton\\SUS.HTTP\\SUS.HTTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROG STRIX\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ROG STRIX\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.deps.json
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csprojAssemblyReference.cache
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfoInputs.cache
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfo.cs
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\ROG STRIX\Desktop\exam Grading\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.deps.json
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csprojAssemblyReference.cache
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfoInputs.cache
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfo.cs
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\ROG STRIX\Desktop\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.pdb
